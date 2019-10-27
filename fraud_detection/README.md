@@ -1,6 +1,6 @@
-# Fraud Dectection Example
+# Fraud Detection Example
 
-This examples' goals is to:
+Fraud Detection' goals is to:
 
 - Build a logistic regression model using `Scikit-learn` and `Pandas` to predict fraudulent transactions by training it on [this](https://www.kaggle.com/mlg-ulb/creditcardfraud) kaggle dataset.
 
