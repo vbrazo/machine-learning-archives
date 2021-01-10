@@ -1,6 +1,20 @@
-# Machine Learning Regression Resources
+# Machine Learning for Managers
 
-This repository's goal is to gather different examples of machine learning regression algorithm.
+This is my personal algorithms archives and it's where I store my Machine Learning research that aims to provide resources to better interview developers in my engineering management journey.
+
+- [Machine Learning](#machine-learning)
+  - [Classification](#classification)
+  - [Regression](#regression)
+
+# Data Structures
+
+## Classification
+
+### Code Examples
+
+## Regression
+
+### Code Examples
 
 ## Examples
 
