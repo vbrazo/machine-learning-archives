@@ -1,4 +1,4 @@
-# Machine Learning for Managers
+# Machine Learning Archives
 
 This is my personal algorithms archives and it's where I store my Machine Learning research that aims to provide resources to better interview developers in my engineering management journey.
 
